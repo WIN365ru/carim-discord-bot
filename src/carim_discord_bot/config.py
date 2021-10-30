@@ -1,5 +1,5 @@
 import json
-import loggin
+import logging
 
 from carim_discord_bot import message_builder
 
